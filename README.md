@@ -4,7 +4,8 @@ This is a repository with the assignments of IE678 Deep Learning course at Unive
 
 ## 1st Assignment
 - Implementation of MLP without using pre-canned PyTorch neural network functionality.
-- Training & Experiments with MLPs - Backpropagation.
+- Training & Experiments with MLPs
+- Backpropagation.
   - Computation of the results of the forward pass directly using basic PyTorch operations
   - Computation of the results of the backward pass directly using basic PyTorch operations (i.e. without using autograd)
 
