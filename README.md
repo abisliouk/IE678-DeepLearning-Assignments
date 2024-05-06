@@ -4,9 +4,12 @@ This is a repository with the assignments of IE678 Deep Learning course at Unive
 
 Assignments have been done by pair of students @[Artem Bisliouk](https://github.com/abisliouk) and @[Nico Ramin](https://github.com/NicoRamin)
 
-## 1st Assignment
+## 1st Assignment. FNNs
 
-In this assignment, feedforward networks in PyTorch were explored. 
+In this assignment, feedforward networks in PyTorch were explored.
+
+### Research area
+FNN, MLP, Logistic Regression, Scipy’s BFGS optimizer, ReLU, Backpropagation.
 
 ### Tasks
 - **Implement an MLP**.
@@ -38,9 +41,12 @@ In this assignment, feedforward networks in PyTorch were explored.
 - [Helper Functions](https://github.com/abisliouk/IE678-DeepLearning-Assignments/blob/main/Assignment%201/a01helper.py) for results validation
 
 
-## 2nd Assignment
+## 2nd Assignment. RNNs
 
 In this assignment the basic sentiment analysis (positive/negative) for movie reviews (text) using PyTorch was performed and investigated.
+
+### Research area
+Tokenization, Sentiment Analysis, Data Loaders, Embedding layer, LSTM encoder, Linear layer, Logistic function, GloVe word embeddings, t-SNE, PCA, Elman cells, GRU cells, LSTM cells, dropout influence, RNN direction.
 
 ### Tasks
 
