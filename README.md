@@ -2,6 +2,8 @@
 
 This is a repository with the assignments of IE678 Deep Learning course at University of Mannheim. 
 
+Assignments have been done by pair of students @[Artem Bisliouk](https://github.com/abisliouk) and @[Nico Ramin](https://github.com/NicoRamin)
+
 ## 1st Assignment
 
 ### Content
