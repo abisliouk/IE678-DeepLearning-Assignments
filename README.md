@@ -6,7 +6,7 @@ Assignments have been done by pair of students @[Artem Bisliouk](https://github.
 
 ## 1st Assignment. FNNs
 
-In this assignment, feedforward networks in PyTorch were explored.
+In this assignment feedforward networks in PyTorch were explored.
 
 ### Research area
 FNN, MLP, Logistic Regression, Scipy’s BFGS optimizer, ReLU, Backpropagation.
